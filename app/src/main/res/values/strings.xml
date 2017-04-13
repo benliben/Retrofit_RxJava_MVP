@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit+RxJava</string>
+    <string name="set_site">请输入要查询的地址</string>
+    <string name="set_seek">请输入要查询的电影名称</string>
+</resources>
